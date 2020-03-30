@@ -1,0 +1,14 @@
+lambda/handler/filedeletehandler/TestUtils$1.class
+lambda/handler/filedeletehandler/TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+lambda/handler/filedeletehandler/TestUtils$DynamodbEventMixin$RecordMixin.class
+lambda/handler/filedeletehandler/TestUtils$DynamodbEventMixin.class
+lambda/handler/filedeletehandler/TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+lambda/handler/filedeletehandler/TestUtils$DateTimeSerializer.class
+lambda/handler/filedeletehandler/LambdaFunctionHandlerTest.class
+lambda/handler/filedeletehandler/TestUtils$TestJacksonMapperModule.class
+lambda/handler/filedeletehandler/TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+lambda/handler/filedeletehandler/TestUtils.class
+lambda/handler/filedeletehandler/TestContext$TestLogger.class
+lambda/handler/filedeletehandler/TestContext.class
+lambda/handler/filedeletehandler/TestContext$1.class
+lambda/handler/filedeletehandler/TestUtils$DateTimeDeserializer.class
