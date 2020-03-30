@@ -1,6 +1,6 @@
-.settings
-.classpath
-.project
-.serverless.template
-target
+FileDeleteHandler/.settings
+FileDeleteHandler/.classpath
+FileDeleteHandler/.project
+FileDeleteHandler/.serverless.template
+FileDeleteHandler/target
 
